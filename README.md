@@ -1,5 +1,7 @@
 # Bulk-Folder-and-File-Organizer
 
+![Bulk-Folder-and-File-Organizer](https://github.com/ShaonPro/Bulk-Folder-And-File-Organizer/assets/81785311/aa12912a-6053-4ab3-834b-a829a99a2b7f)
+
 ## Description
 This script helps organize a collection of images into a desired folder structure. It creates main folders and subfolders based on the user's input, allowing for flexibility and customization.
 
@@ -31,4 +33,4 @@ This script is released under the [MIT License](https://opensource.org/licenses/
 
 Feel free to adjust the script and customize it according to your preferences and specific requirements.
 
-![Bulk-Folder-and-File-Organizer](https://github.com/ShaonPro/Bulk-Folder-And-File-Organizer/assets/81785311/aa12912a-6053-4ab3-834b-a829a99a2b7f)
+
