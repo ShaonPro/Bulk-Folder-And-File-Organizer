@@ -10,7 +10,7 @@ The purpose of this script is to facilitate the organization of images into a st
 - Creates subfolders within each main folder based on user input.
 - Distributes a specified number of images to each subfolder.
 - Provides a clean and organized arrangement for the collection of images.
-![carbon](https://github.com/ShaonPro/Bulk-Folder-And-File-Organizer/assets/81785311/aa12912a-6053-4ab3-834b-a829a99a2b7f)
+
 
 ## Usage
 1. Place the script in the same directory as the images you want to organize.
@@ -31,3 +31,4 @@ This script is released under the [MIT License](https://opensource.org/licenses/
 
 Feel free to adjust the script and customize it according to your preferences and specific requirements.
 
+![Bulk-Folder-and-File-Organizer](https://github.com/ShaonPro/Bulk-Folder-And-File-Organizer/assets/81785311/aa12912a-6053-4ab3-834b-a829a99a2b7f)
