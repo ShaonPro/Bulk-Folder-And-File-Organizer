@@ -28,6 +28,10 @@ To organize a collection of 200 images into 4 main folders, each containing 5 su
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
+## Contact 
+Need further help? Just ping me or visit my website: 
+### Website: https://www.shaon.pro
+### Email: hi@shaon.pro
 ## License
 This script is released under the [MIT License](https://opensource.org/licenses/MIT).
 
